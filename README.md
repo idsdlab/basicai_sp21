@@ -15,10 +15,10 @@ Course for Basic Artificial Intelligence in 2021
   + [데이터 구조 및 분석: Non-Linear Structure, Optimization, and Algorithms](https://kaist.edwith.org/datastructure-2019s2)
 
 ## 파이썬 초보자를 위한 300제
-- [파이썬 300제] (https://wikidocs.net/book/922)
+- [파이썬 300제](https://wikidocs.net/book/922)
 
 ## 파이썬 초중급자를 위한 100제 (제주코딩페스티벌)
-- [파이썬 100제] (https://www.notion.so/Python-100-6ee1860ce29a41bc8eb6b9cfa7d7f06c)
+- [파이썬 100제](https://www.notion.so/Python-100-6ee1860ce29a41bc8eb6b9cfa7d7f06c)
 
 ## 주교재
 - [밑바닥부터 시작하는 딥러닝 1](https://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)

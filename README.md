@@ -13,6 +13,8 @@ Course for Basic Artificial Intelligence in 2021
   + [파이썬(Python)으로 배우는 프로그래밍 기초(CS101)](https://kaist.edwith.org/cs101) (필수 : 참여도 10%)
   + [파이썬 데이터 구조 및 분석: Linear Structure and Dynamic Programming](https://kaist.edwith.org/datastructure-2019s) (선택)
   + [데이터 구조 및 분석: Non-Linear Structure, Optimization, and Algorithms](https://kaist.edwith.org/datastructure-2019s2) (선택)
+- 중급으로 가기 위한 파이썬 노트
+  + [핵심만 간단히, Hello World! 파이썬 3](https://wikidocs.net/book/1657)
 
 ## 파이썬 초보자를 위한 300제
 - [파이썬 300제](https://wikidocs.net/book/922)

@@ -8,7 +8,7 @@ Course for Basic Artificial Intelligence in 2021
 - github 계정 생성 필수
 
 ## 파이썬 이수증 
-- [이수증 제출 마감] 5주차 종료시 전까지, 이메일로 제출 (yongwoo.kim@smu.ac.kr)
+- [이수증 제출 마감] 5주차 종료시 전까지, e-campus 과제물 제출 (yongwoo.kim@smu.ac.kr)
 - 파이썬 언어를 이해하기 위해 필요한 온라인 동영상
   + [파이썬(Python)으로 배우는 프로그래밍 기초(CS101)](https://kaist.edwith.org/cs101) (필수 : 참여도 10%)
   + [파이썬 데이터 구조 및 분석: Linear Structure and Dynamic Programming](https://kaist.edwith.org/datastructure-2019s) (선택)

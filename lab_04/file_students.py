@@ -7,7 +7,7 @@ def process_file(fileName):
     result_list = []
 
     for idx, line in enumerate(input_file):
-        line = line.strip()
+        line = line.rstrip('\n')
 
         if idx == 0:
             content_str = line + ',합계,평균'

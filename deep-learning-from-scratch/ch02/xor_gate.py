@@ -1,4 +1,5 @@
 # coding: utf-8
+# coding: utf-8
 from and_gate import AND
 from or_gate import OR
 from nand_gate import NAND
@@ -14,3 +15,4 @@ if __name__ == '__main__':
     for xs in [(0, 0), (1, 0), (0, 1), (1, 1)]:
         y = XOR(xs[0], xs[1])
         print(str(xs) + " -> " + str(y))
+
